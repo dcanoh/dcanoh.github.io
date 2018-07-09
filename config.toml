@@ -1,0 +1,4 @@
+baseURL = "http://dcanoh.github.io"
+languageCode = "en-us"
+title = "Lide Framework"
+theme = "after-dark"
